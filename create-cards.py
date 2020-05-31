@@ -21,7 +21,7 @@ def manueldecodage_to_unicode(txt):
 font = ImageFont.truetype('font/new_athena_unicode.ttf', 100)
 fonts = ImageFont.truetype('font/new_athena_unicode.ttf', 80)
 
-path = "dictionary2"
+path = "dictionary3"
 outfolder = "anki"
 
 cardw = 800
