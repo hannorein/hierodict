@@ -7,7 +7,7 @@
 ++JSesh_standard_sign_height 18.0 +s
 ++JSesh_small_body_scale_limit 12.0 +s
 ++JSesh_cartouche_line_width 1.0 +s
-++JSesh_small_sign_centered false +s
+++JSesh_small_sign_centered true +s
 ++JSesh_page_direction LEFT_TO_RIGHT +s
 ++JSesh_max_quadrantHeight 18.0 +s
 ++JSesh_page_orientation HORIZONTAL +s
@@ -62,7 +62,10 @@ sbA-t:Z1-A1:Z2-+twnwt+s-+lhourly staff+s-!
 M42-m-A2-+twnm+s-+leat, 3-lit.+s-!
 M42-A2-+twnm+s-+leat, 3-lit.+s-!
 M42-A2-w-N18:Z2-+twnmw+s-+lfood+s-!
-!
+wn-N35:N35-+twnn+s-+lexist, be, 2ae-gem.+s-!
+wn:N35-mA:mAa-D36:H2-Y1-+twn mAa+s-+lreality+s-!
+N35-wn:N35-mA:mAa-D36:H2-Y1-+tn wn mAatruly+s-!
+wn:N35-i-N35-!
 !
 !
 !
