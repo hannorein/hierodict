@@ -23,6 +23,7 @@ fonts = ImageFont.truetype('font/new_athena_unicode.ttf', 80)
 
 path = "dictionary3"
 outfolder = "anki"
+tags = "dict"
 
 cardw = 800
 cardh = 500
@@ -51,7 +52,7 @@ with open(outfolder+"/deck.tsv","w") as fo:
         txt1 = manueldecodage_to_unicode(translit[i])
         print(i, txt1, translat[i])
 
-        fo.write("\t\t\tcard_front_%05d.png\tcard_back_%05d.png\t\t\n"%(i,i))
+        fo.write("\t\t%s\tcard_front_%05d.png\tcard_back_%05d.png\t\t\n"%(tags,i,i))
 
         hiero = Image.open(path+"/"+img[i])
         bg = Image.new('RGBA', hiero.size, (255,255,255))
