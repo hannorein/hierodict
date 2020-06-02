@@ -199,7 +199,7 @@ D36:q-A-D50-D50-Y1-+taqA+s-+lbe straight, be accurate, 3-lit.+s-!
 V26:d:Y1-+tad+s-+lbe safe, 2-lit.+s-!
 wA-A-t:N31-+twAt+s-+lroad, path, way+s-!
 r:D37-Hr:Z1-wA-A-t:N31-+trdi Hr wAt+s-+lshow the way (put on the way)+s-!
-r:D37-wA-A-t:N31-N35-+trdi wAt n+s-+llet leave (give thr road to)+s-!
+r:D37-wA-A-t:N31-N35-+trdi wAt n+s-+llet leave (give the road to)+s-!
 wA-A-w-mw-+tw3w+s-+lwave+s-!
 V29-H-Y1-+twAH+s-+lset, place, add, stop, remain, last keep, 3-lit., lasting (adjective)+s-!
 V29-H-Y1-F34:Z1-+twAH ib+s-+lbe patient (lasting/set of mind), 3-lit.+s-!
@@ -237,7 +237,7 @@ wp:p-t*Z9:V12-+twpt+s-+lland-register+s-!
 wp:p-Z7:t-Z9:D54-+twpwt+s-+lassignment, mission, message+s-!
 wp:p-Z7:t-Z9-A2-+twpwt+s-+lassignment, mission, message+s-!
 wp-p*t:Y1-+twpwt+s-+lassignment, mission, message+s-!
-wp:p-Z7:t-D54-A1-+twpwtimessenger+s-!
+wp:p-Z7:t-D54-A1-+twpwti+s-+lmessenger+s-!
 w-D52:t:Y1-+twmt+s-+lbe thick, be stout, 3-lit.+s-!
 w-D52:Z3A-pr-+twmwt+s-+lniche+s-!
 wn:N35-O31:D40-+twn+s-+lopen, 2-lit.+s-!
@@ -351,7 +351,7 @@ p:t-p:t-D54-+tptpt+s-+ltrample, 4-lit.+s-!
 T9:t*Z1-+tpDt+s-+lbow+s-!
 T9:t*Z1:xt-+tpDt+s-+lbow+s-!
 p:d-t:T9-T14-A1-+tpDti+s-+lbowman (nisbe)+s-!
-f-A-A9-D40-+tfAi+s-+lcarry lift, 3ae-inf.+s-!
+f-A-A9-D40-+tfAi+s-+lcarry, lift, 3ae-inf.+s-!
 f:N35-wr-+tfn+s-+lbe miserable, 2-lit.+s-!
 f:N35:T-I14-+tfnT+s-+lworm, maggot+s-!
 f:N35:d-D19-+tfnd+s-+lnose+s-!
