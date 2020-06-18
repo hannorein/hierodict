@@ -1,5 +1,6 @@
 import re
 import textwrap
+import random
 from PIL import Image, ImageFont, ImageDraw
 
 def manueldecodage_to_unicode(txt):
@@ -21,7 +22,7 @@ def manueldecodage_to_unicode(txt):
 font = ImageFont.truetype('font/new_athena_unicode.ttf', 100)
 fonts = ImageFont.truetype('font/new_athena_unicode.ttf', 80)
 
-path = "dictionary"
+path = "new"
 outfolder = "anki"
 tags = "dict"
 
@@ -46,6 +47,12 @@ with open(path+"/"+path+"1.html", "r") as fi:
                 print(line)
 N = len(img)
 print("Found %d entries in '%s'" % (N,path))
+
+c = list(zip(img,translit,translat))
+random.shuffle(c)
+img,translit,translat = zip(*c)
+
+
 
 with open(outfolder+"/deck.tsv","w") as fo:
     for i in range(N):
