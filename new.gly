@@ -358,6 +358,28 @@ x:mt:t-Z2:D35-+txmt+s-+lthink, 3-lit.+s-!
 x:N35-A2-+txn+s-+lphrase+s-!
 x:N35-G41-D54-+txni+s-+lland, alight, 3ae-inf.+s-!
 x:N35-nm-m-D19-A2-+txnm+s-+lbreathe, 3-lit.+s-!
-!
+x:N35-nm-m-s-A21A-A1-+txnms+s-+lfriend+s-!
+x:N35-nm-m-s-A21A-Y1-+txnms+s-+lbefriend, associate with, 4-lit.+s-!
+x:N35:r-i-U31:wr-A1-+txnri+s-+ldeprived, nisbe+s-!
+xnt-N35:t-+txnt+s-+lat the head of, preposition+s-!
+xnt-N35:t:D19-+txnt+s-+lbrow, front+s-!
+xnt-N35:t:pr-+txnt+s-+lbrow, front+s-!
+xnt-N35:t:P1-+txnti+s-+lgo forward, upstream, south, 4ae-inf.+s-!
+m-xnt-N35:t:P1-+tm xntyt+s-+lupstream, south+s-!
+D19*t:N25-+txnt+s-+lUpstream, Nubia+s-!
+x:N35:d-D56-D54-+txnd+s-+lstep on, 3-lit.+s-!
+x:r-+txr+s-+lby, near, with, during, preposition, particle+s-!
+x:r-xr-+txr+s-+lfall, 2-lit.+s-!
+xrw-Z7-A2-+txrw+s-+lvoice, sound, noise+s-!
+xrw-Z7-i-i-D40-A1-+txrwi+s-+lenemy+s-!
+x:r-p:D40-+txrp+s-+lmanage, 3-lit.+s-!
+U35-A24-+txsf+s-+lbar, punish, 3-lit., meet, oppose, 4ae-inf.+s-!
+xsf-f:D40-+txsfw+s-+lopponent+s-!
+xt:t*Z1-+txt+s-+lwood, treek, stick, mast+s-!
+xt:x*t-D54-+txt+s-+lwake, train, aftermath+s-!
+m-xt:x*t-D54-+tm xt+s-+lafter, future+s-!
+x:t-m-xtm:D40-+txtm+s-+lseal, shut, 3-lit.+s-!
+x:d-P1-+txdi+s-+lgo downstream, north, 3ae-inf.+s-!
+m-x:d-P1-+tm xdi+s-+ldownstream, north+s-!
 !
 !
