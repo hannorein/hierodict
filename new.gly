@@ -381,5 +381,38 @@ m-xt:x*t-D54-+tm xt+s-+lafter, future+s-!
 x:t-m-xtm:D40-+txtm+s-+lseal, shut, 3-lit.+s-!
 x:d-P1-+txdi+s-+lgo downstream, north, 3ae-inf.+s-!
 m-x:d-P1-+tm xdi+s-+ldownstream, north+s-!
+F32:t*Z1-+tXt+s-+lbelly, womb+s-!
+F32:t*F51-+tXt+s-+lbelly, womb+s-!
+XA:t*Aa2-+tXAt+s-+lcorpse+s-!
+XA-A-t*Aa2:Z2-+tXAt+s-+lcorpse+s-!
+XA-A-r:t-B1-+tXArt+s-+lwidow+s-!
+XA-A-k:Aa2-+tXAk+s-+ltruncate, 3-lit.+s-!
+XA-A-k:Aa2-ib:Z1-A14-+tXAk-ib+s-+lenstranged, truncated of heart+s-!
+D33:N35-P1-+tXni+s-+lrow, transport by boat, 3ae-inf.+s-!
+D33:N35-t:P1-+tXnt+s-+lexcursion in a rowboat+s-!
+D33:N35-i-i-t-A1:Z2-+tXnyt+s-+lcrew+s-!
+F26:N35-nw*Z7:pr-+tXnw+s-+linterior, home, capital+s-!
+F26:N35-nw*Z7:O49-+tXnw+s-+linterior, home, capital+s-!
+m-F26:N35-nw*Z7:pr-+tm Xnw+s-+linside+s-!
+Xnm-m-+tXnm+s-+ljoin, united, 3-lit.+s-!
+Xnm-Z7-A40-+tXnmw+s-+lKhnum, god who forms people's bodies on a potter's wheel+s-!
+D33-N35:t-A22-+tXnti+s-+lstatue, picture+s-!
+F26:N35-t:Z4-A53-+tXnti+s-+lstatue, picture+s-!
+Xr:r-+tXr+s-+lunder, preposition+s-!
+R10B-+tXri-nTr+s-+lnecropolis+s-!
+nTr-Xr:r-N25-+tXri-nTr+s-+lnecropolis+s-!
+Xrd-+tXrd+s-+lchild, boy+s-!
+X:r:d-Xrd-+tXrd+s-+lchild, boy+s-!
+X:z-wr&Z4-+tXzi+s-+lbe wretched, be miserable, be vile, 3ae-inf.+s-!
+z:A1*Z1-+tzi+s-+lman+s-!
+z:A50-+tzi+s-+lman+s-!
+z:t-N41:t-B1-+tzt Himt+s-+lwoman+s-!
+zA-A1-+tzA+s-+lson+s-!
+H8-+tzA+s-+lson+s-!
+G39-A1-z:A1*Z1-+tzA zi+s-+lgentry, man of standing in the community, son of a man+s-!
+G39&t-B1-+tzAt+s-+ldaughter+s-!
+V16:Y1-+tzA+s-+lprotection, safeguard+s-!
+V17-Z1-+tzA+s-+lprotection, safeguard+s-!
+!
 !
 !
