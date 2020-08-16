@@ -23,7 +23,7 @@ font = ImageFont.truetype('font/new_athena_unicode.ttf', 100)
 fonts = ImageFont.truetype('font/new_athena_unicode.ttf', 80)
 
 path = "dictionary"
-outfolder = "anki"
+outfolder = "cards"
 tags = "dict"
 
 cardw = 800
